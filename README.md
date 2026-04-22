@@ -62,10 +62,3 @@ npm start
 
 ---
 
-## 👩‍💻 Author
-Kruthi K Shetty
-
----
-
-## 📜 License
-This project is for educational and research purposes.
