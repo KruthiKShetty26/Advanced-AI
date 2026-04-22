@@ -1,0 +1,625 @@
+[
+    {
+        "text": "Multiple discussions indicate a significant drug issue, with reports of heroin use and high rates of synthetic drug usage (meth/lsd/coke) in metropolitan areas.",
+        "analysis": {
+            "drugs": [
+                "heroin",
+                "meth",
+                "lsd",
+                "coke"
+            ],
+            "adverse_events": [],
+            "severity": null,
+            "severity_reason": null,
+            "who_causality": null,
+            "causality_reason": null,
+            "patient_age": null,
+            "duration": null,
+            "action_required": "further investigation into the reported drug usage",
+            "confidence_score": 0.6
+        },
+        "fda_data": [
+            {
+                "drug": "heroin",
+                "fda_common_reactions": [
+                    "DRUG ABUSE",
+                    "DRUG DEPENDENCE",
+                    "OVERDOSE",
+                    "TOXICITY TO VARIOUS AGENTS",
+                    "DEATH"
+                ]
+            },
+            {
+                "drug": "meth",
+                "fda_common_reactions": [
+                    "NAUSEA",
+                    "FATIGUE",
+                    "HYPERSENSITIVITY",
+                    "OFF LABEL USE",
+                    "COUGH"
+                ]
+            },
+            {
+                "drug": "lsd",
+                "fda_common_reactions": [
+                    "DRUG ABUSE",
+                    "DRUG DEPENDENCE",
+                    "INTENTIONAL PRODUCT MISUSE",
+                    "SUBSTANCE ABUSE",
+                    "TOXICITY TO VARIOUS AGENTS"
+                ]
+            },
+            {
+                "drug": "coke",
+                "fda_common_reactions": [
+                    "ABDOMINAL PAIN UPPER",
+                    "ABORTION SPONTANEOUS",
+                    "ANAEMIA",
+                    "ANAL FISSURE",
+                    "ANAPHYLACTIC REACTION"
+                ]
+            }
+        ],
+        "timestamp": "2026-04-15T19:38:38.371499"
+    },
+    {
+        "text": "Multiple discussions indicate a significant drug issue, with reports of heroin use and high rates of synthetic drug usage (meth/lsd/coke) in metropolitan areas.",
+        "analysis": {
+            "drugs": [
+                "heroin",
+                "meth",
+                "lsd",
+                "coke"
+            ],
+            "adverse_events": [],
+            "severity": null,
+            "severity_reason": null,
+            "who_causality": null,
+            "causality_reason": null,
+            "patient_age": null,
+            "duration": null,
+            "action_required": "further investigation into the reported drug usage",
+            "confidence_score": 0.6
+        },
+        "fda_data": [
+            {
+                "drug": "heroin",
+                "fda_common_reactions": [
+                    "DRUG ABUSE",
+                    "DRUG DEPENDENCE",
+                    "OVERDOSE",
+                    "TOXICITY TO VARIOUS AGENTS",
+                    "DEATH"
+                ]
+            },
+            {
+                "drug": "meth",
+                "fda_common_reactions": [
+                    "NAUSEA",
+                    "FATIGUE",
+                    "HYPERSENSITIVITY",
+                    "OFF LABEL USE",
+                    "COUGH"
+                ]
+            },
+            {
+                "drug": "lsd",
+                "fda_common_reactions": [
+                    "DRUG ABUSE",
+                    "DRUG DEPENDENCE",
+                    "INTENTIONAL PRODUCT MISUSE",
+                    "SUBSTANCE ABUSE",
+                    "TOXICITY TO VARIOUS AGENTS"
+                ]
+            },
+            {
+                "drug": "coke",
+                "fda_common_reactions": [
+                    "ABDOMINAL PAIN UPPER",
+                    "ABORTION SPONTANEOUS",
+                    "ANAEMIA",
+                    "ANAL FISSURE",
+                    "ANAPHYLACTIC REACTION"
+                ]
+            }
+        ],
+        "timestamp": "2026-04-15T19:40:42.797061"
+    },
+    {
+        "text": "A 62-year-old patient was administered Warfarin for anticoagulation but soon developed uncontrolled internal bleeding and severe hypotension. The patient was rushed to the ICU for emergency stabilization.",
+        "analysis": {
+            "drugs": [
+                "Warfarin"
+            ],
+            "adverse_events": [
+                "uncontrolled internal bleeding",
+                "severe hypotension"
+            ],
+            "severity": "severe",
+            "severity_reason": "The patient developed life-threatening conditions that required emergency stabilization in the ICU.",
+            "who_causality": "Probable",
+            "causality_reason": "The adverse events occurred soon after the administration of Warfarin, suggesting a likely causal relationship.",
+            "patient_age": "62",
+            "duration": null,
+            "action_required": "Monitor patient closely and adjust anticoagulation therapy as needed",
+            "confidence_score": 0.9
+        },
+        "fda_data": [
+            {
+                "drug": "Warfarin",
+                "fda_common_reactions": []
+            }
+        ],
+        "timestamp": "2026-04-16T02:44:43.768523"
+    },
+    {
+        "text": "A 45-year-old female patient was prescribed Penicillin for a bacterial infection.\nWithin 20 minutes of the first dose, she developed severe difficulty breathing,\nwidespread hives, and a sudden drop in blood pressure. She was diagnosed with\nanaphylaxis and required emergency epinephrine injection and hospitalization.",
+        "analysis": {
+            "drugs": [
+                "Penicillin"
+            ],
+            "adverse_events": [
+                "difficulty breathing",
+                "hives",
+                "drop in blood pressure",
+                "anaphylaxis"
+            ],
+            "severity": "severe",
+            "severity_reason": "The patient developed anaphylaxis, a severe and potentially life-threatening condition, within 20 minutes of the first dose.",
+            "who_causality": "Certain",
+            "causality_reason": "The adverse events occurred shortly after the administration of Penicillin, indicating a strong temporal relationship.",
+            "patient_age": "45",
+            "duration": "20 minutes",
+            "action_required": "Monitor for similar reactions in other patients taking Penicillin and consider alternative treatments.",
+            "confidence_score": 0.95
+        },
+        "fda_data": [
+            {
+                "drug": "Penicillin",
+                "fda_common_reactions": [
+                    "drug hypersensitivity",
+                    "rash",
+                    "dyspnoea",
+                    "fatigue",
+                    "pain",
+                    "drug ineffective"
+                ]
+            }
+        ],
+        "timestamp": "2026-04-16T02:50:11.693399"
+    },
+    {
+        "text": "A 45-year-old female patient was prescribed Penicillin for a bacterial infection.\nWithin 20 minutes of the first dose, she developed severe difficulty breathing,\nwidespread hives, and a sudden drop in blood pressure. She was diagnosed with\nanaphylaxis and required emergency epinephrine injection and hospitalization.",
+        "analysis": {
+            "drugs": [
+                "Penicillin"
+            ],
+            "adverse_events": [
+                "difficulty breathing",
+                "hives",
+                "drop in blood pressure",
+                "anaphylaxis"
+            ],
+            "severity": "severe",
+            "severity_reason": "The patient developed anaphylaxis, a severe and potentially life-threatening condition, within 20 minutes of taking the first dose of Penicillin.",
+            "who_causality": "Certain",
+            "causality_reason": "The temporal relationship between the administration of Penicillin and the onset of anaphylaxis strongly suggests a causal link.",
+            "patient_age": "45",
+            "duration": "within 20 minutes",
+            "action_required": "Monitor for similar reactions in other patients taking Penicillin and consider alternative treatments for patients with a history of penicillin allergy.",
+            "confidence_score": 0.95
+        },
+        "fda_data": [
+            {
+                "drug": "Penicillin",
+                "fda_common_reactions": [
+                    "DRUG HYPERSENSITIVITY",
+                    "RASH",
+                    "DYSPNOEA",
+                    "FATIGUE",
+                    "PAIN"
+                ]
+            }
+        ],
+        "timestamp": "2026-04-16T02:50:57.045724"
+    },
+    {
+        "text": "A 67-year-old male diabetic patient was taking Metformin 500mg twice daily.\nAfter his doctor added Ibuprofen for arthritis pain, he began experiencing\nnausea, stomach pain, and his blood glucose levels became difficult to control.\nThe symptoms started about 3 days after starting Ibuprofen.",
+        "analysis": {
+            "drugs": [
+                "Metformin",
+                "Ibuprofen"
+            ],
+            "adverse_events": [
+                "nausea",
+                "stomach pain",
+                "difficulty controlling blood glucose levels"
+            ],
+            "severity": "moderate",
+            "severity_reason": "The patient experienced multiple adverse events, including gastrointestinal symptoms and loss of glycemic control, which impacted his health but were not immediately life-threatening.",
+            "who_causality": "Probable",
+            "causality_reason": "The symptoms started after the introduction of Ibuprofen, suggesting a possible causal relationship between the drug and the adverse events.",
+            "patient_age": "67",
+            "duration": "3 days",
+            "action_required": "Monitor the patient's condition, consider alternative treatments for arthritis pain, and adjust the diabetes management plan as needed.",
+            "confidence_score": 0.8
+        },
+        "fda_data": [
+            {
+                "drug": "Metformin",
+                "fda_common_reactions": [
+                    "NAUSEA",
+                    "DIARRHOEA",
+                    "BLOOD GLUCOSE INCREASED",
+                    "DRUG INEFFECTIVE",
+                    "FATIGUE"
+                ]
+            },
+            {
+                "drug": "Ibuprofen",
+                "fda_common_reactions": []
+            }
+        ],
+        "timestamp": "2026-04-16T02:52:03.935763"
+    },
+    {
+        "text": "Someone on Reddit wrote: \"Has anyone else felt really dizzy and had weird\nheart palpitations after taking Atorvastatin? Started the 20mg dose last week\nand I feel off. Not sure if it's the medication or just stress.\"",
+        "analysis": {
+            "drugs": [
+                "Atorvastatin"
+            ],
+            "adverse_events": [
+                "dizziness",
+                "heart palpitations"
+            ],
+            "severity": "moderate",
+            "severity_reason": "The patient is experiencing dizziness and heart palpitations, which are concerning symptoms but not immediately life-threatening.",
+            "who_causality": "Possible",
+            "causality_reason": "The patient has recently started taking Atorvastatin and is experiencing symptoms, but also mentions stress as a potential cause.",
+            "patient_age": null,
+            "duration": "last week",
+            "action_required": "The patient should consult their doctor to discuss the potential side effects and determine the best course of action.",
+            "confidence_score": 0.7
+        },
+        "fda_data": [
+            {
+                "drug": "Atorvastatin",
+                "fda_common_reactions": [
+                    "FATIGUE",
+                    "DIARRHOEA",
+                    "DYSPNOEA",
+                    "NAUSEA",
+                    "DRUG INEFFECTIVE"
+                ]
+            }
+        ],
+        "timestamp": "2026-04-16T02:52:35.013572"
+    },
+    {
+        "text": "Someone on Reddit wrote: \"Has anyone else felt really dizzy and had weird\nheart palpitations after taking Atorvastatin? Started the 20mg dose last week\nand I feel off. Not sure if it's the medication or just stress",
+        "analysis": {
+            "drugs": [
+                "Atorvastatin"
+            ],
+            "adverse_events": [
+                "dizziness",
+                "heart palpitations"
+            ],
+            "severity": "moderate",
+            "severity_reason": "The patient is experiencing dizziness and heart palpitations, which are concerning symptoms but not immediately life-threatening.",
+            "who_causality": "Possible",
+            "causality_reason": "The patient has recently started taking Atorvastatin and is experiencing symptoms, but also mentions stress as a potential cause.",
+            "patient_age": null,
+            "duration": "1 week",
+            "action_required": "The patient should consult their doctor to assess the cause of the symptoms and consider alternative treatments or dose adjustments.",
+            "confidence_score": 0.7
+        },
+        "fda_data": [
+            {
+                "drug": "Atorvastatin",
+                "fda_common_reactions": [
+                    "FATIGUE",
+                    "DIARRHOEA",
+                    "DYSPNOEA",
+                    "NAUSEA",
+                    "DRUG INEFFECTIVE"
+                ]
+            }
+        ],
+        "timestamp": "2026-04-16T04:57:23.202014"
+    },
+    {
+        "text": "A 45-year-old female patient was prescribed Penicillin for a bacterial infection.\nWithin 20 minutes of the first dose, she developed severe difficulty breathing,\nwidespread hives, and a sudden drop in blood pressure. She was diagnosed with\nanaphylaxis and required emergency epinephrine injection and hospitalization.",
+        "analysis": {
+            "drugs": [
+                "Penicillin"
+            ],
+            "adverse_events": [
+                "difficulty breathing",
+                "hives",
+                "drop in blood pressure",
+                "anaphylaxis"
+            ],
+            "severity": "severe",
+            "severity_reason": "The patient developed anaphylaxis, a severe and potentially life-threatening condition, within 20 minutes of the first dose.",
+            "who_causality": "Certain",
+            "causality_reason": "The adverse events occurred immediately after the administration of the drug, indicating a clear temporal relationship.",
+            "patient_age": "45",
+            "duration": "20 minutes",
+            "action_required": "Monitor for similar reactions in other patients taking Penicillin and consider alternative treatments.",
+            "confidence_score": 0.95
+        },
+        "fda_data": [
+            {
+                "drug": "Penicillin",
+                "fda_common_reactions": [
+                    "DRUG HYPERSENSITIVITY",
+                    "RASH",
+                    "DYSPNOEA",
+                    "FATIGUE",
+                    "PAIN"
+                ]
+            }
+        ],
+        "timestamp": "2026-04-16T04:57:39.177846"
+    },
+    {
+        "text": "Someone on Reddit wrote: \"Has anyone else felt really dizzy and had weird\nheart palpitations after taking Atorvastatin? Started the 20mg dose last week\nand I feel off. Not sure if it's the medication or just stress",
+        "analysis": {
+            "drugs": [
+                "Atorvastatin"
+            ],
+            "adverse_events": [
+                "dizziness",
+                "heart palpitations"
+            ],
+            "severity": "moderate",
+            "severity_reason": "The patient is experiencing dizziness and heart palpitations, which are concerning symptoms but not immediately life-threatening.",
+            "who_causality": "Possible",
+            "causality_reason": "The patient started the medication last week and is now experiencing symptoms, but also mentions stress as a potential cause.",
+            "patient_age": null,
+            "duration": "last week",
+            "action_required": "The patient should consult their doctor to assess the cause of the symptoms and consider alternative treatments or dose adjustments.",
+            "confidence_score": 0.7
+        },
+        "fda_data": [
+            {
+                "drug": "Atorvastatin",
+                "fda_common_reactions": [
+                    "FATIGUE",
+                    "DIARRHOEA",
+                    "DYSPNOEA",
+                    "NAUSEA",
+                    "DRUG INEFFECTIVE"
+                ]
+            }
+        ],
+        "timestamp": "2026-04-16T04:58:14.165545"
+    },
+    {
+        "text": "A 45-year-old female patient was prescribed Penicillin for a bacterial infection.\nWithin 20 minutes of the first dose, she developed severe difficulty breathing,\nwidespread hives, and a sudden drop in blood pressure. She was diagnosed with\nanaphylaxis and required emergency epinephrine injection and hospitalization.",
+        "analysis": {
+            "drugs": [
+                "Penicillin"
+            ],
+            "adverse_events": [
+                "difficulty breathing",
+                "hives",
+                "drop in blood pressure",
+                "anaphylaxis"
+            ],
+            "severity": "severe",
+            "severity_reason": "The patient developed anaphylaxis, a severe and potentially life-threatening condition, within 20 minutes of taking the first dose of Penicillin.",
+            "who_causality": "Certain",
+            "causality_reason": "The temporal relationship between the administration of Penicillin and the onset of anaphylaxis strongly suggests a causal link.",
+            "patient_age": "45",
+            "duration": "20 minutes",
+            "action_required": "Monitor for future allergic reactions and consider alternative antibiotics",
+            "confidence_score": 0.95
+        },
+        "fda_data": [
+            {
+                "drug": "Penicillin",
+                "fda_common_reactions": [
+                    "DRUG HYPERSENSITIVITY",
+                    "RASH",
+                    "DYSPNOEA",
+                    "FATIGUE",
+                    "PAIN"
+                ]
+            }
+        ],
+        "timestamp": "2026-04-16T05:20:47.549597"
+    },
+    {
+        "text": "Someone on Reddit wrote: \"Has anyone else felt really dizzy and had weird\nheart palpitations after taking Atorvastatin? Started the 20mg dose last week\nand I feel off. Not sure if it's the medication or just stress",
+        "analysis": {
+            "drugs": [
+                "Atorvastatin"
+            ],
+            "adverse_events": [
+                "dizziness",
+                "heart palpitations"
+            ],
+            "severity": "moderate",
+            "severity_reason": "The patient is experiencing dizziness and heart palpitations, which are concerning symptoms but not immediately life-threatening.",
+            "who_causality": "Possible",
+            "causality_reason": "The patient started the medication last week and is now experiencing symptoms, but also mentions stress as a potential cause.",
+            "patient_age": null,
+            "duration": "last week",
+            "action_required": "The patient should consult their doctor to assess the cause of the symptoms and consider alternative treatments or dose adjustments.",
+            "confidence_score": 0.7
+        },
+        "fda_data": [
+            {
+                "drug": "Atorvastatin",
+                "fda_common_reactions": [
+                    "FATIGUE",
+                    "DIARRHOEA",
+                    "DYSPNOEA",
+                    "NAUSEA",
+                    "DRUG INEFFECTIVE"
+                ]
+            }
+        ],
+        "timestamp": "2026-04-16T05:25:38.629648"
+    },
+    {
+        "text": "A 67-year-old male diabetic patient was taking Metformin 500mg twice daily.\nAfter his doctor added Ibuprofen for arthritis pain, he began experiencing\nnausea, stomach pain, and his blood glucose levels became difficult to control.\nThe symptoms started about 3 days after starting Ibuprofen.",
+        "analysis": {
+            "drugs": [
+                "Metformin",
+                "Ibuprofen"
+            ],
+            "adverse_events": [
+                "nausea",
+                "stomach pain",
+                "difficulty controlling blood glucose levels"
+            ],
+            "severity": "moderate",
+            "severity_reason": "The patient experienced multiple adverse events, including gastrointestinal symptoms and loss of glycemic control, which impacted his health but were not immediately life-threatening.",
+            "who_causality": "Probable",
+            "causality_reason": "The symptoms started after the introduction of Ibuprofen, suggesting a possible causal relationship between the drug and the adverse events.",
+            "patient_age": "67",
+            "duration": "3 days",
+            "action_required": "Monitor the patient's condition, consider alternative treatments for arthritis pain, and adjust the diabetes management plan as needed.",
+            "confidence_score": 0.8
+        },
+        "fda_data": [
+            {
+                "drug": "Metformin",
+                "fda_common_reactions": [
+                    "NAUSEA",
+                    "DIARRHOEA",
+                    "BLOOD GLUCOSE INCREASED",
+                    "DRUG INEFFECTIVE",
+                    "FATIGUE"
+                ]
+            },
+            {
+                "drug": "Ibuprofen",
+                "fda_common_reactions": [
+                    "DRUG INEFFECTIVE",
+                    "PAIN",
+                    "FATIGUE",
+                    "NAUSEA",
+                    "HEADACHE"
+                ]
+            }
+        ],
+        "timestamp": "2026-04-16T05:26:58.514028"
+    },
+    {
+        "text": "A 45-year-old female patient was prescribed Penicillin for a bacterial infection.\nWithin 20 minutes of the first dose, she developed severe difficulty breathing,\nwidespread hives, and a sudden drop in blood pressure. She was diagnosed with\nanaphylaxis and required emergency epinephrine injection and hospitalization.",
+        "analysis": {
+            "drugs": [
+                "Penicillin"
+            ],
+            "adverse_events": [
+                "difficulty breathing",
+                "hives",
+                "drop in blood pressure",
+                "anaphylaxis"
+            ],
+            "severity": "severe",
+            "severity_reason": "The patient developed anaphylaxis, a severe and potentially life-threatening condition, within 20 minutes of taking the first dose of Penicillin.",
+            "who_causality": "Certain",
+            "causality_reason": "The temporal relationship between the administration of Penicillin and the onset of anaphylaxis strongly suggests a causal link.",
+            "patient_age": "45",
+            "duration": "within 20 minutes",
+            "action_required": "Monitor for similar reactions in other patients taking Penicillin and consider alternative treatments for patients with a history of penicillin allergy.",
+            "confidence_score": 0.95
+        },
+        "fda_data": [
+            {
+                "drug": "Penicillin",
+                "fda_common_reactions": [
+                    "DRUG HYPERSENSITIVITY",
+                    "RASH",
+                    "DYSPNOEA",
+                    "FATIGUE",
+                    "PAIN"
+                ]
+            }
+        ],
+        "timestamp": "2026-04-16T05:33:24.024658"
+    },
+    {
+        "text": "A 67-year-old male diabetic patient was taking Metformin 500mg twice daily.\nAfter his doctor added Ibuprofen for arthritis pain, he began experiencing\nnausea, stomach pain, and his blood glucose levels became difficult to control.\nThe symptoms started about 3 days after starting Ibuprofen.",
+        "analysis": {
+            "drugs": [
+                "Metformin",
+                "Ibuprofen"
+            ],
+            "adverse_events": [
+                "nausea",
+                "stomach pain",
+                "difficulty controlling blood glucose levels"
+            ],
+            "severity": "moderate",
+            "severity_reason": "The patient experienced multiple adverse events, including gastrointestinal symptoms and loss of glycemic control, which impacted his health but were not immediately life-threatening.",
+            "who_causality": "Probable",
+            "causality_reason": "The symptoms started after the introduction of Ibuprofen, suggesting a possible causal relationship between the drug and the adverse events.",
+            "patient_age": "67",
+            "duration": "3 days",
+            "action_required": "Monitor the patient's condition, consider alternative treatments for arthritis pain, and adjust the diabetes management plan as needed.",
+            "confidence_score": 0.8
+        },
+        "fda_data": [
+            {
+                "drug": "Metformin",
+                "fda_common_reactions": [
+                    "NAUSEA",
+                    "DIARRHOEA",
+                    "BLOOD GLUCOSE INCREASED",
+                    "DRUG INEFFECTIVE",
+                    "FATIGUE"
+                ]
+            },
+            {
+                "drug": "Ibuprofen",
+                "fda_common_reactions": [
+                    "DRUG INEFFECTIVE",
+                    "PAIN",
+                    "FATIGUE",
+                    "NAUSEA",
+                    "HEADACHE"
+                ]
+            }
+        ],
+        "timestamp": "2026-04-16T05:35:27.315636"
+    },
+    {
+        "text": "Someone on Reddit wrote: \"Has anyone else felt really dizzy and had weird\nheart palpitations after taking Atorvastatin? Started the 20mg dose last week\nand I feel off. Not sure if it's the medication or just stress",
+        "analysis": {
+            "drugs": [
+                "Atorvastatin"
+            ],
+            "adverse_events": [
+                "dizziness",
+                "heart palpitations"
+            ],
+            "severity": "moderate",
+            "severity_reason": "The patient is experiencing dizziness and heart palpitations, which are concerning symptoms but not immediately life-threatening.",
+            "who_causality": "Possible",
+            "causality_reason": "The patient started taking Atorvastatin and then experienced the adverse events, but also mentions stress as a potential cause.",
+            "patient_age": null,
+            "duration": "last week",
+            "action_required": "The patient should consult their doctor to assess the cause of the symptoms and consider alternative treatments or dose adjustments.",
+            "confidence_score": 0.7
+        },
+        "fda_data": [
+            {
+                "drug": "Atorvastatin",
+                "fda_common_reactions": [
+                    "FATIGUE",
+                    "DIARRHOEA",
+                    "DYSPNOEA",
+                    "NAUSEA",
+                    "DRUG INEFFECTIVE"
+                ]
+            }
+        ],
+        "timestamp": "2026-04-16T05:36:51.846471"
+    }
+]
